@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ToDoWeather-Chrome-App
 
 css 작업 많이 하지 않음.
