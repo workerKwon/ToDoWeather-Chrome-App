@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ToDoWeather-Chrome-App
 
 css 작업 많이 하지 않음.
@@ -9,3 +10,6 @@ css 작업 많이 하지 않음.
 localStorage에 저장해 놓는 방식이다.
 
 weatherAPI를 활용하여 latitude와 longitude를 넣어줘서 현재 도시와 온도를 표시해 놓았다.
+=======
+# testApp
+>>>>>>> 8192a3da9b45a018fa6a7de1e0776a34382a8c4f
